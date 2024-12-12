@@ -1,5 +1,5 @@
 # Telangana Growth Analysis
-### Open data telangana + Codebasics resume project challenge
+## Open data telangana + Codebasics resume project challenge
 
 # Problem statement
 
@@ -47,8 +47,15 @@ Benefits of this challenge:
 
 ## Achievement
 **This project made it to top 5% of all projects submitted :D**
-**And applauded for the meticulous research work**
+**And applauded for the meticulous research work.**
 
 ### Credits: The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
+
+# Contact me here
+
+**Email:** siddhi.atwork@gmail.com
+**LinkedIn:** [https://www.linkedin.com/in/thats_siddhi](https://www.linkedin.com/in/thats_siddhi)
+**Instagram:** [https://www.instagram.com/thats_siddhi](https://www.instagram.com/thats_siddhi)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
