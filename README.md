@@ -54,9 +54,9 @@ Benefits of this challenge:
 
 ## Contact me here
 
-**Email:** siddhi.atwork@gmail.com
-**LinkedIn:** [https://www.linkedin.com/in/thats_siddhi](https://www.linkedin.com/in/thats_siddhi)
-**Instagram:** [https://www.instagram.com/thats_siddhi](https://www.instagram.com/thats_siddhi)
+- **Email:** siddhi.atwork@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/thats_siddhi](https://www.linkedin.com/in/thats_siddhi)
+- **Instagram:** [https://www.instagram.com/thats_siddhi](https://www.instagram.com/thats_siddhi)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
