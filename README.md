@@ -1,7 +1,8 @@
 # Telangana Growth Analysis
 ## Open data telangana + Codebasics resume project challenge
+<img width="642" alt="{F38B3D36-E11B-43ED-938A-E8E0998A0CBC}" src="https://github.com/user-attachments/assets/d817a5cf-77ce-4b64-a188-c6b001530a57" />
 
-# Problem statement
+## Problem statement
 
 Telangana is one of the fastest-growing states in India and one of the states with an open data policy. (They have published all their data online)
 
@@ -30,7 +31,6 @@ Benefits of this challenge:
 
 ### Project screenshots
 
-<img width="642" alt="{F38B3D36-E11B-43ED-938A-E8E0998A0CBC}" src="https://github.com/user-attachments/assets/d817a5cf-77ce-4b64-a188-c6b001530a57" />
 <img width="644" alt="{DB3B1128-683B-4E9D-8C90-696B64A4C367}" src="https://github.com/user-attachments/assets/53a299b3-703a-4ef0-bbb0-68d9462ec22d" />
 <img width="640" alt="{A080ABC1-1416-4FFE-8A5C-6BBF4C867073}" src="https://github.com/user-attachments/assets/0edc09c3-c637-4a16-b2ed-4471dd0d0808" />
 <img width="636" alt="{A6752CF9-8F28-44E9-8DF2-CEEF13D33015}" src="https://github.com/user-attachments/assets/d468c8c0-a4db-41b5-a83c-440a7b68b9c8" />
@@ -48,10 +48,11 @@ Benefits of this challenge:
 ## Achievement
 **This project made it to top 5% of all projects submitted :D**
 **And applauded for the meticulous research work.**
+**A certificate**
 
 ### Credits: The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
 
-# Contact me here
+## Contact me here
 
 **Email:** siddhi.atwork@gmail.com
 **LinkedIn:** [https://www.linkedin.com/in/thats_siddhi](https://www.linkedin.com/in/thats_siddhi)
