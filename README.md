@@ -35,17 +35,17 @@ Benefits of this challenge:
 <img width="640" alt="{A080ABC1-1416-4FFE-8A5C-6BBF4C867073}" src="https://github.com/user-attachments/assets/0edc09c3-c637-4a16-b2ed-4471dd0d0808" />
 <img width="636" alt="{A6752CF9-8F28-44E9-8DF2-CEEF13D33015}" src="https://github.com/user-attachments/assets/d468c8c0-a4db-41b5-a83c-440a7b68b9c8" />
 
-## Here's me presenting it
+## That's me presenting it!
 
 <img width="930" alt="{C8299447-5A9E-4419-95B4-E3B35B7017F4}" src="https://github.com/user-attachments/assets/60a21a39-e2ce-4a22-a32c-f4ba0e6049d7" />
 
 
-**Watch complete presentation here**
-**LinkedIn link**
-[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114314584617811968?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>](https://www.linkedin.com/posts/thats-siddhi_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114316153816068096-qFJb?utm_source=share&utm_medium=member_desktop)
+#### Watch complete presentation here
+**(LinkedIn link)**
+[<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7114314584617811968?compact=1" height="399" width="610" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>](https://www.linkedin.com/posts/thats-siddhi_codebasicsresumeprojectchallenge-opendatatelangana-activity-7114316153816068096-qFJb?utm_source=share&utm_medium=member_desktop)
 
 
-## Achievement
+## Achievements
 **This project made it to top 5% of all projects submitted :D**
 **And applauded for the meticulous research work.**
 **A certificate**
