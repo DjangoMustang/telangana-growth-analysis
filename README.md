@@ -1,4 +1,7 @@
-# telangana-growth-analysis
+# Telangana Growth Analysis
+### Open data telangana + Codebasics resume project challenge
+
+# Problem statement
 
 Telangana is one of the fastest-growing states in India and one of the states with an open data policy. (They have published all their data online)
 
@@ -29,3 +32,5 @@ Every successful submission to get a joint appreciation certificate from codebas
 Top 5 winners to get a letter of recognition from Open Data Telangana 
 Internship Possibilities with Open Data Telangana
 Credits: The dataset is taken from Open Data Telangana. Thanks to the Telangana Government for providing real-time datasets for public access which is a great learning asset - feel free to explore them here. (https://data.telangana.gov.in/). 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
